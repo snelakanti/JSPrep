@@ -6,3 +6,4 @@ let hasNegativeNums = arr.some(function(i) {
 console.log(hasNegativeNums);
 
 //some retrns true or false depending on the condition
+//as the name suggests if some items satisfy the condition, it returns true
