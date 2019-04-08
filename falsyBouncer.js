@@ -12,6 +12,7 @@ function bouncer(arr) {
 
 bouncer([7, "ate", "", false, 9]);
 
-// let one = false;
+// let one = false;  //one = 2
 // let two = Boolean(one);
-// console.log(two); //false
+// console.log(two); //false //true
+//falsy values:  false, null, 0, "", undefined, and NaN.
